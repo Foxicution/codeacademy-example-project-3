@@ -14,8 +14,8 @@ Welcome to the official solution repository for **Codecademy Practical Assignmen
    - Written solution: [solution.md](./solution.md)
 
 3. **Notebooks**  
-   - **[madrid.ipynb](./madrid.ipynb)**: Analysis of Madrid air pollution using the [dataset](https://www.kaggle.com/datasets/ignacioqg/20012022-hourly-dataset-of-pollution-in-madrid).  
-   - **[cancer.ipynb](./cancer.ipynb)**: Analysis of esophageal cancer using the [dataset](https://www.kaggle.com/datasets/abhinaba1biswas/esophageal-cancer-dataset).
+   - **[src/madrid.ipynb](./src/madrid.ipynb)**: Analysis of Madrid air pollution using the [dataset](https://www.kaggle.com/datasets/ignacioqg/20012022-hourly-dataset-of-pollution-in-madrid).  
+   - **[src/cancer.ipynb](./src/cancer.ipynb)**: Analysis of esophageal cancer using the [dataset](https://www.kaggle.com/datasets/abhinaba1biswas/esophageal-cancer-dataset).
 
 ---
 

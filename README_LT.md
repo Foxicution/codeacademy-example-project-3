@@ -14,8 +14,8 @@ Sveiki atvykę į oficialų **Codecademy Praktinės Užduoties Nr. 3** sprendimo
    - Rašytinis sprendimas: [solution.md](./solution.md)
 
 3. **Užrašinės**  
-   - **[madrid.ipynb](./madrid.ipynb)**: Madrido oro taršos analizė naudojant [duomenų rinkinį](https://www.kaggle.com/datasets/ignacioqg/20012022-hourly-dataset-of-pollution-in-madrid).  
-   - **[cancer.ipynb](./cancer.ipynb)**: Stemplės vėžio analizė naudojant [duomenų rinkinį](https://www.kaggle.com/datasets/abhinaba1biswas/esophageal-cancer-dataset).
+   - **[src/madrid.ipynb](./src/madrid.ipynb)**: Madrido oro taršos analizė naudojant [duomenų rinkinį](https://www.kaggle.com/datasets/ignacioqg/20012022-hourly-dataset-of-pollution-in-madrid).  
+   - **[src/cancer.ipynb](./src/cancer.ipynb)**: Stemplės vėžio analizė naudojant [duomenų rinkinį](https://www.kaggle.com/datasets/abhinaba1biswas/esophageal-cancer-dataset).
 
 ---
 
